@@ -2,7 +2,7 @@
 - 👀 I’m interested in App Development and DSA
 - 🌱 I’m currently diving deeper in dev and dsa
 - 💞️ I’m looking to collaborate on open-source projects
-- 📫 You can reach me throught linkedin https://www.linkedin.com/in/abhijeet-dadhich/
+- 📫 You can reach me throught linkedin :  https://www.linkedin.com/in/abhijeet-dadhich/
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am UI/UX designer as well. 
 
