@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm an **App Developer** and **DSA enthusiast** wi
 <p align="left">
   <a href="https://www.linkedin.com/in/abhi-apk/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/abhijeet.apk/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://twitter.com/abhijeetd_apk"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="X (formerly Twitter)"/></a>
+  <a href="https://twitter.com/abhijeetd_apk"><img src="https://img.shields.io/badge/-%2314171A.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 Feel free to explore my repositories or reach out for collaboration! 😊
