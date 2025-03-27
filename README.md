@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm an **App Developer** and **DSA enthusiast** with a focus on creating seamless, efficient solutions in both **mobile app development** and **problem-solving with data structures and algorithms**.
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 👀 **Interested in:** App Development, DSA, and exploring new tech.
 - 🌱 **Currently diving deeper** into advanced development techniques and mastering DSA using **Java**.
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm an **App Developer** and **DSA enthusiast** wi
 ---
 [![](https://visitcount.itsvg.in/api?id=abhi-apk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🔨 What I Work With
+# 🔨 What I Work With
 
 <p align="left">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm an **App Developer** and **DSA enthusiast** wi
 - **Frameworks & Tools:** Flutter, Firebase, APIs
 - **DSA Skills:** Proficient in **Java** for solving complex problems with data structures and algorithms.
 
-## 📫 How to Reach Me
+# 📫 How to Reach Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abhi-apk/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
