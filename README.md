@@ -1,15 +1,17 @@
 # 👋 Hi there, I’m Abhijeet Dadhich
 
-Welcome to my GitHub profile! I'm an **App Developer** and **DSA enthusiast** with a focus on creating seamless, efficient solutions in both **mobile app development** and **problem-solving with data structures and algorithms**.
+Welcome to my GitHub profile!
+
+I'm an **App Developer**, **AWS Solution Architect** and **DSA enthusiast** with a focus on creating seamless, efficient solutions in **mobile app development**, **cloud** and **problem-solving with data structures and algorithms**.
 
 # 👨‍💻 About Me
 
-- 👀 **Interested in:** App Development, DSA, and exploring new tech.
+- 👀 **Interested in:** App Development, Cloud, DSA, and exploring new tech.
 - 🌱 **Currently diving deeper** into advanced development techniques and mastering DSA using **Java**.
-- 💻 **Proficient in:** **Flutter** (Dart), **Firebase**, and working with APIs to build robust mobile applications.
-- 💞️ **Open to collaborate** on open-source projects, especially those related to app development and innovative DSA implementations.
+- 💻 **Proficient in:** **Flutter** (Dart), **Firebase**, **AWS**, and working with APIs to build robust mobile applications.
+- 💞️ **Open to collaborate** on open-source projects, especially those related to app development, cloud and innovative DSA implementations.
 - 😄 **Pronouns:** He/him
-- ⚡ **Fun fact:** I'm also a **UI/UX designer**, combining aesthetics with functionality in my projects!
+- ⚡ **Fun fact:** I'm also a **designer**, combining aesthetics with functionality in my projects!
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=abhi-apk&theme=dark&hide_border=false)<br/>
@@ -23,14 +25,16 @@ Welcome to my GitHub profile! I'm an **App Developer** and **DSA enthusiast** wi
 <p align="left">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 - **Languages:** Dart, Java
-- **Frameworks & Tools:** Flutter, Firebase, APIs
-- **DSA Skills:** Proficient in **Java** for solving complex problems with data structures and algorithms.
+- **Frameworks & Tools:** Flutter, AWS, Firebase, APIs
+- **DSA Skills:** Proficient in **Java** and **C++** for solving complex problems with data structures and algorithms.
 
 # 📫 How to Reach Me
 
@@ -43,8 +47,3 @@ Welcome to my GitHub profile! I'm an **App Developer** and **DSA enthusiast** wi
 Feel free to explore my repositories or reach out for collaboration! 😊
 
 ---
-
-<!---
-abhijeetdadhich/abhijeetdadhich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
